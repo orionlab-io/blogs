@@ -2,7 +2,7 @@
 
 This demonstration includes a workflow whenever the blob is updated or added it sends an e-mail. This will explain the idea of establishment of connectors and gives the basic workflow to decide the possible actions when a trigger is occurred.
 
-1.  Login to Microsoft Azure portal: https://portal.azure.com/
+1.  Login to Microsoft Azure portal: [Azure Portal](https://portal.azure.com/ "Azure Portal"]
 2.  Create a Storage account. The storage account must have a container . Refer the [How to Create Azure Storage Account] for Storage Account creation. The overview of storage account is as shown below.
 
 3.  Create a Logic app. Refer the [How to Create Azure Logic App] for the Logic App creation. The overview of Logic app is as shown below.
