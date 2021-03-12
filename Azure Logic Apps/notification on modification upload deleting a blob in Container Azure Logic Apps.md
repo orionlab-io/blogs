@@ -39,4 +39,4 @@ This demonstration includes a workflow whenever the blob is updated or added it 
 Once the logic app starts running, the person will receive a notification e-mail on the basis of modifying/update of the blob.
 
 ##For any Support Please Contact us at [connect@orionlab.io](mailto:connect@orionlab.io)
-![OrionLab Logo]()
+![OrionLab Logo](https://github.com/orionlab-io/blogs/blob/main/logo-dark.png)
